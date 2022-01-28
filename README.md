@@ -1,5 +1,5 @@
 # Kaggle-Crypto-Competition
-<strong>G-Research Crypto Forecasting:</strong> [Link](https://pages.github.com/)
+<strong>G-Research Crypto Forecasting:</strong> [Link](https://www.kaggle.com/c/g-research-crypto-forecasting/overview)
 
 ### Python Libraries
 XGBoost, Sci-Kit Learn, Matplotlib, ipywidgets
