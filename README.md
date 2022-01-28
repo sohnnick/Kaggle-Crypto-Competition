@@ -9,6 +9,7 @@ Predicting ...
 
 ### Visualizations
 In the "Notebook/Visualization.ipynb" file, viewers can select a coin then view the price candlesticks and a correlation heatmap.
+<br>
 <img src="Images/visualizations.png" alt="viz" width="500" />
 
 ### Model
