@@ -5,7 +5,7 @@
 XGBoost, Sci-Kit Learn, Matplotlib, ipywidgets
 
 ### Summary
-
+Predicting ...
 
 ### Visualizations
 In the Notebook/Visualization.ipynb notebook, viewers can select a coin then view the price candlesticks and a correlation heatmap.
@@ -14,4 +14,5 @@ In the Notebook/Visualization.ipynb notebook, viewers can select a coin then vie
 ### Model
 
 Most significant variables:
+<br>
 <img src="Images/XGBoost_var_significance.png" alt="results" width="500" />
