@@ -8,7 +8,7 @@ XGBoost, Sci-Kit Learn, Matplotlib, ipywidgets
 Predicting ...
 
 ### Visualizations
-In the Notebook/Visualization.ipynb notebook, viewers can select a coin then view the price candlesticks and a correlation heatmap.
+In the "Notebook/Visualization.ipynb" file, viewers can select a coin then view the price candlesticks and a correlation heatmap.
 <img src="Images/visualizations.png" alt="viz" width="500" />
 
 ### Model
