@@ -15,6 +15,7 @@ In the "Notebook/Visualization.ipynb" file, viewers can select a coin then view 
 ### Model
 I utilized XGBoost due to its improved processing speed over a Random Forest Regressor. I tuned the algorithm on a subset of the training set for hyperparameters learning_rate, max_depth, min_child_weight, colsample_bytree, and reg_lambda. The most significant variables appeared to be Volume, Open, Close, High, and Low. However, what was surprising was that Asset_ID 4, or Dogecoin, showcased significant predictive power when compared to other coins.
 <br>
+<br>
 Most significant variables:
 <br>
 <img src="Images/XGBoost_var_significance.png" alt="results" width="500" />
