@@ -5,7 +5,7 @@
 XGBoost, Sci-Kit Learn, Matplotlib, ipywidgets
 
 ### Summary
-Forecasting short-term returns in 14 popular cryptocurrencies. The model is trained on 7 parameters: Asset_ID, Open, High, Low, Close, Volume, and VWAP. The target variable is derived from log returns over 15 minutes. The ultimate goal is to effective predict the alpha of an asset. However, there are several challenges including but not limited to overfitting and time complexity.
+Forecasting short-term returns in 14 popular cryptocurrencies. The model is trained on 7 parameters: Asset_ID, Open, High, Low, Close, Volume, and VWAP. The target variable is derived from log returns over 15 minutes. The ultimate goal is to effectively predict the alpha of an asset. However, there are several challenges including but not limited to overfitting and time complexity.
 
 ### Visualizations
 In the "Notebook/Visualization.ipynb" file, viewers can select a coin then view the price candlesticks and a correlation heatmap.
